@@ -15,7 +15,7 @@ Release evidence: [v2.2.5 final verification](FINAL-VERIFICATION-v2.2.5-2026-08-
         │                             │
         ▼                             ▼
   origin (public)              aimh (private)
-  AgriciDaniel/claude-seo      AI-Marketing-Hub/claude-seo
+  vikasmishrav87/claude-seo      AI-Marketing-Hub/claude-seo
   - Release destination        - Daily development
   - main = released history    - main = reviewed private release history
   - Tags = release history     - v2 = active development
@@ -58,7 +58,7 @@ test gates. No need to touch the public remote for routine work.
 7. Create the GitHub release on the public repository only.
    ```bash
    gh release create v2.0.1 \
-     --repo AgriciDaniel/claude-seo \
+     --repo vikasmishrav87/claude-seo \
      --notes-from-tag \
      --verify-tag
    ```
@@ -102,7 +102,7 @@ The repositories are intentionally not byte-identical:
 
 | File | `aimh` (private) | `origin` (public) |
 |---|---|---|
-| `.claude-plugin/marketplace.json` `name` | `ai-marketing-hub-claude-seo` | `agricidaniel-claude-seo` |
+| `.claude-plugin/marketplace.json` `name` | `ai-marketing-hub-claude-seo` | `vikasmishrav87-claude-seo` |
 | `.claude-plugin/marketplace.json` `owner.name` | `AI Marketing Hub` | `AgriciDaniel` |
 
 The private repository can also retain private-only `research/` reports, Pro

@@ -245,7 +245,7 @@ GitHub fork of the other.
 
 | Remote | URL | Visibility | Role |
 |---|---|---|---|
-| `origin` | `https://github.com/AgriciDaniel/claude-seo` | **Public** | Published distribution. Users discover, clone, and install from here. `main` only reflects released history. |
+| `origin` | `https://github.com/vikasmishrav87/claude-seo` | **Public** | Published distribution. Users discover, clone, and install from here. `main` only reflects released history. |
 | `aimh` | `https://github.com/AI-Marketing-Hub/claude-seo` | **Private** | Working repo inside the AI Marketing Hub org. Daily development. v2 branch + post-release work lives here before promotion to public. |
 
 ### Workflow
